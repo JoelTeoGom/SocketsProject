@@ -1,0 +1,1 @@
+This project is centered around learning how to establish communication between two sockets and sending messages using buffers. It involves gaining practical experience in setting up, managing, and exchanging data between sockets using buffers to efficiently handle message transmission and reception.
